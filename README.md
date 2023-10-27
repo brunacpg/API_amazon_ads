@@ -1,5 +1,4 @@
-## API Amazon Ads <img src="(https://github.com/brunacpg/API_amazon_ads/assets/103262900/9ce3eb6d-0269-4783-a502-b94c8435214d)
-">
+## API Amazon Ads <img src="https://github.com/brunacpg/API_amazon_ads/assets/103262900/216a762b-7795-4d10-bd77-e75c6779ce0c">
 
 <br> Status do Projeto: :heavy_check_mark: 
 
