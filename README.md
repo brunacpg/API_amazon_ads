@@ -1,16 +1,25 @@
 ## API Amazon Ads <img src="https://github.com/brunacpg/API_amazon_ads/assets/103262900/216a762b-7795-4d10-bd77-e75c6779ce0c" width="200" height="100">
 
-<br> Status do Projeto: :heavy_check_mark: 
+<br> Project Status: :heavy_check_mark: 
 
-### Tópicos 
+### Topics
 
-:small_blue_diamond: Descrição do projeto
-<br>:small_blue_diamond: Questionário
-<br>:small_blue_diamond: Resolução
+:small_blue_diamond: Project description
+<br>:small_blue_diamond: Notes
 
-### Descrição do projeto 
+
+### Project description
 
 <p align="justify">
-O projeto visa melhorar a comunicação interna e a satisfação dos funcionários, permitindo que as empresas tomem medidas informadas para aprimorar o ambiente de trabalho.
+
+An uncomplicated illustration demonstrating the process of retrieving Amazon Ads reports for several days, selecting specific metrics, all through Python and the Amazon Ads API.
+
+### Notes 
+
+You need to have registered as a developer to get your access token and refresh token.
+Furthermore you need to know the profile id of the ads account you want the reports to download for.
+
+
+
 
  
